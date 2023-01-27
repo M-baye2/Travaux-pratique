@@ -1,0 +1,78 @@
+/* nav{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 150px;
+    background-color: #142d4c;
+    border-radius: 8px;
+}
+nav a:hover{
+    color: red;
+}
+
+.one{
+    display: flex;
+    background-color: beige;
+    gap: 30px;
+    border-radius: 8px;
+
+}
+body{
+    font-family: "karla";
+    border-radius: 8px;
+}
+h1{
+    font-family: "roboto";
+    margin-left: 30px;
+}
+.section5 {
+    display: flex;
+    justify-content: space-between;
+    width: 100%
+    
+    flex-grow: 2;
+    flex-wrap: ;
+}
+p{
+    margin:20px 0px 20px 30px ;
+    padding: 0px 15px 0px 15px;
+    text-align: justify;
+    background-color: beige;
+    border-radius: 8px
+}
+section {
+    margin-bottom: 150px;
+}
+section video{
+    border-radius: 8px
+}
+.section5 img{
+    max-width: 450px;
+    width: 100%;
+    border-radius: 8px;
+    gap: 20px;
+} */
+/* .piece{
+    background-color: beige;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 25px 15px 25px;
+    border-radius: 15px;
+    border: 2px double crimson;
+    color : black
+} */
+.btn{
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+    margin-top: 1500px;
+    padding: 15px 25px 15px 25px;
+    border-radius: 15px;
+    border: 2px double crimson;
+    color : black;
+}
+body{
+    height: 100vh;
+}
